@@ -128,3 +128,14 @@ The functionality is very powerful and really interesting, especially in the con
 17. Put Your Common Expressions into Variables
 18. Memorize the Shortcuts
 19. Lean on Resources
+
+## Build with
+
+* [Qlikview](https://www.qlik.com/fr-fr/) - Business analytics platform
+* [Docker](https://www.docker.com/) - Set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers
+* [Git](https://git-scm.com) - Open source distributed version control system
+* [PostgreSQL](https://www.postgresql.org) - Open source object-relational database system
+
+## Contributing
+
+If you would like to contribute, read the CONTRIBUTING.md file to learn how to do so.
