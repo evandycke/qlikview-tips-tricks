@@ -28,7 +28,7 @@ If the KPI Definitions are in a Flat file and you use Qlik Sense:
 	Create a folder connection to where the include-script.txt is placed and a 
 	folder connection (if different) where the KPI definition file is placed. 
 	All formats of the file are supported but you have to provide the 
-	file import parameters below, so it could be txt, biff, xlsx ï¿½
+	file import parameters below, so it could be txt, biff, xlsx …
 
 SET vKPI_Source = 'File'; 
 SET vKPI_File = [lib://include/KPI_Def.txt];  // Qlik Sense
@@ -66,7 +66,7 @@ $(must_include=[E:\include\Create_KPI_Repository-include.txt]);
 If the KPI Definitions are in a Database table and you use Qlik Sense
 
 	Create a folder connection to where the include script is placed. In below 
-	example that connection is called ï¿½includeï¿½
+	example that connection is called “include”
 	Create the database connection to where the definition table Is located. 
 	Connect to it, then provide the SQL command in the variable vKPI_Select before 
 	calling the include script.
@@ -238,8 +238,8 @@ ADD LOAD DISTINCT
     ,[..APP_PATTERNNAME] AS $KPI.APP_PATTERNNAME
     ,[..USAGE] AS $KPI.USAGE
     ,REPLACE(
-    	If(WildMatch([..DONTRESOLVE], 1, -1, 'true'), REPLACE([..FORMULA], '$' & '(', '$ï¿½('), [..FORMULA])
-    	,'$' & '(=', '$ï¿½(=') AS $KPI.FORMULA.tmp
+    	If(WildMatch([..DONTRESOLVE], 1, -1, 'true'), REPLACE([..FORMULA], '$' & '(', '$»('), [..FORMULA])
+    	,'$' & '(=', '$»(=') AS $KPI.FORMULA.tmp
     	
     ,''
 	    & If(Len([..VARIANTOF]) AND NOT Len([..FORMULA]), [..NAME] & ': Undefined VARIANTOF.', '')
@@ -320,9 +320,9 @@ FOR vtmp_Round = 1 TO 3
 			END IF		
 		
 			// in the 2nd run, when the formulas of the variables are final,
-			// REPLACE the $ï¿½( with $( 
+			// REPLACE the $»( with $( 
 			
-			LET [$(vtmp_NAME)] = REPLACE([$(vtmp_NAME)], '$ï¿½(', '$' & '(');  
+			LET [$(vtmp_NAME)] = REPLACE([$(vtmp_NAME)], '$»(', '$' & '(');  
 			        
 		END IF
 	NEXT vtmp_N;
