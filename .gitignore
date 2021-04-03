@@ -1,2 +1,5 @@
 # On exclut les fichiers présents dans le volume dédié à la base postgresql
 db/
+
+# On exclut les fichiers générés par les différens QVW
+out/
