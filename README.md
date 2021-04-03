@@ -12,6 +12,8 @@ Some Tips and Tricks about Qlikview.
 * [QvsEditor_v1.2](./qvw/QvsEditor_v1.2.qvw) - This document can edit QVS files (Qlikview scripts)
 * [QVD Dictionary V2](./qvw/QVD_Dictionary_V2.qvw) - This document scan QVD/QVW files in order to build a data dictionary
 * [Human Resources](./qvw/Human_Resources.qvw) - An example
+* [Master Calendar](./qvw/qlik-calendar.qvw) - Build a Master Calendar with Qlikview
+* [QVD generator](./qvw/convert_csv_to_qvd.qvw) - Convert CSV files to QVD files
 
 ## Useful links
 
