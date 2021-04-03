@@ -15,11 +15,13 @@ Some Tips and Tricks about Qlikview.
 * [Master Calendar](./qvw/qlik-calendar.qvw) - Build a Master Calendar with Qlikview
 * [QVD generator](./qvw/convert_csv_to_qvd.qvw) - Convert CSV files to QVD files
 * [External Expressions](./qvw/external_expressions.qvw) - Outsource Qlikview document expressions
+* [Central KPI formula repository](./qvw/kpi_formula_generator.qvw)
 
 ## Useful links
 
 * [EasyQlik QViewer](https://www.easyqlik.com/) - Fast and lightweight QVD Viewer
 * [Living QlikView](http://livingqlikview.com/19-tips-all-qlikview-beginners-must-know/)
+* [Central KPI formula repository](https://community.qlik.com/t5/Deployment-Framework/Central-KPI-Formula-Repository-solution/td-p/1478681)
 
 ## Tip 1 : Disable document compression
 
