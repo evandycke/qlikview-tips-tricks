@@ -13,9 +13,10 @@ Some Tips and Tricks about Qlikview.
 * [QVD Dictionary V2](./qvw/QVD_Dictionary_V2.qvw) - This document scan QVD/QVW files in order to build a data dictionary
 * [Human Resources](./qvw/Human_Resources.qvw) - An example
 * [Master Calendar](./qvw/qlik-calendar.qvw) - Build a Master Calendar with Qlikview
-* [QVD generator](./qvw/convert_csv_to_qvd.qvw) - Convert CSV files to QVD files
+* [CSV to QVD generator](./qvw/convert_csv_to_qvd.qvw) - Convert CSV files to QVD files
 * [External Expressions](./qvw/external_expressions.qvw) - Outsource Qlikview document expressions
 * [Central KPI formula repository](./qvw/kpi_formula_generator.qvw)
+* [SQL to QVD generator](./qvw/qvd_generator.qvw) - Convert SQL tables to QVD files
 
 ## Useful links
 
