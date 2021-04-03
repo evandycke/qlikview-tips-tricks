@@ -13,9 +13,10 @@ Some Tips and Tricks about Qlikview.
 * [QVD Dictionary V2](./qvw/QVD_Dictionary_V2.qvw) - This document scan QVD/QVW files in order to build a data dictionary
 * [Human Resources](./qvw/Human_Resources.qvw) - An example
 
-## Useful link
+## Useful links
 
 * [EasyQlik QViewer](https://www.easyqlik.com/) - Fast and lightweight QVD Viewer
+* [Living QlikView](http://livingqlikview.com/19-tips-all-qlikview-beginners-must-know/)
 
 ## Tip 1 : Disable document compression
 
@@ -127,7 +128,3 @@ The functionality is very powerful and really interesting, especially in the con
 17. Put Your Common Expressions into Variables
 18. Memorize the Shortcuts
 19. Lean on Resources
-
-## Usefull links
-
-* [Living QlikView](http://livingqlikview.com/19-tips-all-qlikview-beginners-must-know/)
