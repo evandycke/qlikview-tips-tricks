@@ -14,6 +14,7 @@ Some Tips and Tricks about Qlikview.
 * [Human Resources](./qvw/Human_Resources.qvw) - An example
 * [Master Calendar](./qvw/qlik-calendar.qvw) - Build a Master Calendar with Qlikview
 * [QVD generator](./qvw/convert_csv_to_qvd.qvw) - Convert CSV files to QVD files
+* [External Expressions](./qvw/external_expressions.qvw) - Outsource Qlikview document expressions
 
 ## Useful links
 
