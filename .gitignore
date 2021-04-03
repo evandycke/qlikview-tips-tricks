@@ -1,0 +1,2 @@
+# On exclut les fichiers présents dans le volume dédié à la base postgresql
+db/
