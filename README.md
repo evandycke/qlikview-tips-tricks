@@ -24,6 +24,31 @@ Some Tips and Tricks about Qlikview.
 * [Living QlikView](http://livingqlikview.com/19-tips-all-qlikview-beginners-must-know/)
 * [Central KPI formula repository](https://community.qlik.com/t5/Deployment-Framework/Central-KPI-Formula-Repository-solution/td-p/1478681)
 
+## Useful scripts
+
+* Build a calendar
+* Play with mapping
+* Reset an inputfield
+
+## Useful macros
+
+* Add conditionnal expression to chart
+* Set up autozoom
+* Change layout 
+* Clone a dimension group
+* Delete a file
+* Dynamic Update
+* Export object from hidden sheet to jpg
+* Export object to Excel
+* Export object to jpg
+* Import/Export all variables
+* Open a document with current month selection
+* Open/Reload/Click/Close
+* Read & write a variable
+* Run an external program
+* Save & exit Qlikview
+* Send mail
+
 ## Tip 1 : Disable document compression
 
 This will save and load the document faster, but taking up more disk space.
