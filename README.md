@@ -23,6 +23,20 @@ Some Tips and Tricks about Qlikview.
 * [EasyQlik QViewer](https://www.easyqlik.com/) - Fast and lightweight QVD Viewer
 * [Living QlikView](http://livingqlikview.com/19-tips-all-qlikview-beginners-must-know/)
 * [Central KPI formula repository](https://community.qlik.com/t5/Deployment-Framework/Central-KPI-Formula-Repository-solution/td-p/1478681)
+* [QlikView Demo](https://demos.qlik.com/qlikview) - Examples of dashboards made with QlikView
+* [Qlik Sense Demo](https://demos.qlik.com/qliksense) - Examples of dashboards made with Qlik Sense
+* [Living Qlik](http://livingqlikview.com/) - A blog about Qlik
+* [QuickIntelligence](https://www.quickintelligence.co.uk/examples/) - Examples of dashboard made with QlikView
+* [IPPON Qlikview Blog](https://blog.ipponservices.com/) - A blog about Qlik
+* [Qlik Blog](http://www.qlikblog.at/) - Another blog about Qlik
+* [World Football Fan App](https://eu-b.demo.qlik.com/QvAJAXZfc/opendoc.htm?document=qvdocs/Choose%20Your%20Champion.qvw&sourceID1=mkto-2014-H1-World-Football)
+
+## Useful tools
+
+* [EasyQlik QViewer](https://www.easyqlik.com/) - Viewer for QVD Files
+* [SenseTheme](https://sensetheme.com/) - A theme builder for Qlik Sense
+* [Set Analysis Wizard for QlikView](http://tools.qlikblog.at/SetAnalysisWizard/QlikView-SetAnalysis_Wizard_and_Generator.aspx?sa=) - To discover the magic of set analysis
+* [Nested If Generator](http://www.qlikblog.at/tools/Nested-If-Generator.html) - The Wonderful world of nested If
 
 ## Useful scripts
 
@@ -48,6 +62,10 @@ Some Tips and Tricks about Qlikview.
 * Run an external program
 * Save & exit Qlikview
 * Send mail
+
+## Tomorrow I will learn about Qlik
+
+* [Qlik Data Literacy Program](https://www.qlik.com/fr-fr/services/data-literacy-program) - Some free data literacy courses
 
 ## Tip 1 : Disable document compression
 
